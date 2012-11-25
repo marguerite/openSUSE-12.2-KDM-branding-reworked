@@ -11,3 +11,5 @@ So I just polished it a little bit.
 
 NOTE: I just worked the normal user login mode, other modes like remote login mode may looks even more ugly than before.
 if you had such hardware and test environment. please help me finish that parts.
+
+![](https://raw.github.com/marguerite/openSUSE-12.2-KDM-branding-reworked/master/screenshot.png)
